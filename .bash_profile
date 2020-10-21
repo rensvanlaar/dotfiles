@@ -51,7 +51,7 @@ alias l="ls" # List files in current directory
 alias ll="ls -al" # List all files in current directory in long list format
 alias cl="clear" # Clears terminal
 alias o="open ." # Open the current directory in Finder
-alias cdd="/Users/rensvanlaar/Library/Mobile\ Documents/com~apple~CloudDocs/dev" # cd into dev folder
+alias cdd="/Users/rensvanlaar/dev" # cd into dev folder
 
 # ------------
 # Git Aliases
